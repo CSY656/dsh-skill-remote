@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "dsh-skill-remote",
   "description": "Remote skills.sh/GitHub skill provider and installer plugin for DeepSeek Harness",
   "version": "0.1.0",
