@@ -1,0 +1,5 @@
+# Bundle layer contributed by dsh-skill-remote.
+# Installed automatically when a profile lists this bundle.
+- insert:
+    - id: skill-remote
+      name: dsh-skill-remote
