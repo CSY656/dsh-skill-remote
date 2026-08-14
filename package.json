@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "dsh-skill-remote",
   "description": "Remote skills.sh/GitHub skill provider and installer plugin for DeepSeek Harness",
   "version": "0.1.0",
@@ -19,7 +19,6 @@
     "src/"
   ],
   "scripts": {
-    "prepare": "tsdown",
     "build": "tsdown",
     "typecheck": "tsc --noEmit",
     "test": "vitest run"
@@ -50,3 +49,4 @@
     "vitest": "^4.0.0"
   }
 }
+
